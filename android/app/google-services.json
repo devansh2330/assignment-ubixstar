@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786516543600",
+    "project_id": "ubix-star",
+    "storage_bucket": "ubix-star.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786516543600:android:e83f6086493fa031734cb5",
+        "android_client_info": {
+          "package_name": "com.example.assignment_ubixstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786516543600-93vg5fpuige2ife30p0sda804s2p0avj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXywBdWEufwavAO3y0HOFtXoRP9qaj9yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786516543600-93vg5fpuige2ife30p0sda804s2p0avj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
